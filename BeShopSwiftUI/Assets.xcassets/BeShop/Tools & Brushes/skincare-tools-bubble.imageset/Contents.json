@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "skincare-tools-bubble.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

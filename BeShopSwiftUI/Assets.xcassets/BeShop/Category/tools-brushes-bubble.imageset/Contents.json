@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "tools-brushes-bubble.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

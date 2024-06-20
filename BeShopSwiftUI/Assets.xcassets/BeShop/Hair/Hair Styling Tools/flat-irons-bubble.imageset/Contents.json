@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "flat-irons-bubble.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

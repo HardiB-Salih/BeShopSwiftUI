@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "wax-pomade-bubble.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
